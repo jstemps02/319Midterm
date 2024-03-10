@@ -1,0 +1,171 @@
+div {
+    padding: 1%;
+}
+
+textarea {
+    width: 90%;
+}
+
+img {
+    padding: 1%;
+}
+
+.bio {
+    text-align: center;
+}
+
+.nav {
+    padding-right: 1%;
+}
+
+button {
+    padding: 1%;
+}
+
+br {
+    padding-top: 3%;
+}
+
+#textBox{
+    
+    outline: 1px solid grey;
+    margin: .5%;
+    background-color: rgb(50, 50, 50);
+    height: 60vh;
+    overflow:auto;
+
+}
+#textBox:hover { outline: 1px solid rgb(185, 185, 185); }
+
+lineNum{
+    color:greenyellow;
+    font-weight: bolder;
+}
+div {
+    padding: 1%;
+}
+
+textarea {
+    width: 90%;
+}
+
+img {
+    padding: 1%;
+}
+
+.bio {
+    text-align: center;
+}
+
+.nav {
+    padding-right: 1%;
+}
+
+button {
+    padding: 1%;
+}
+
+br {
+    padding-top: 3%;
+}
+
+#textBox{
+    
+    outline: 1px solid grey;
+    margin: .5%;
+    background-color: rgb(50, 50, 50);
+    height: 60vh;
+    overflow:auto;
+
+}
+#textBox:hover { outline: 1px solid rgb(185, 185, 185); }
+
+lineNum{
+    color:greenyellow;
+    font-weight: bolder;
+}
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #212529; /* Dark background for dark theme */
+    color: #fff; /* Light text for dark theme */
+}
+
+.card-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    margin: 10px;
+    background-color: #343a40; /* Darker card background for contrast */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Adjust shadow for dark theme */
+    border-radius: 5px;
+    width: calc(33% - 20px); /* Adjust for 3 columns with margins */
+    text-align: center;
+    padding: 15px;
+    color: #fff; /* Light text for dark theme */
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card-description {
+    font-size: 14px;
+}
+
+.card-hidden {
+    display: none;
+  }
+
+#list {
+    list-style-type: none;
+    padding: 15px;
+    margin: 0 auto;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#list li {
+    background-color: #343a40;
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+#list li:hover {
+    background-color: #495057;
+}
+
+#dropdown {
+    background-color: #212529;
+    border: 1px solid #495057;
+    padding: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: justify;
+}
+
+#dropdown img {
+    max-width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#dropdown description{
+    margin: 0 auto;
+}

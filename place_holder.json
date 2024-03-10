@@ -1,0 +1,22 @@
+{
+    "placeholder": [
+      {
+        "string": "Placeholder Content:"
+      },
+      {
+        "string": "10.0.0.1:8080"
+      },
+      {
+        "string": "127.0.0.1:22"
+      },
+      {
+        "string": "https://google.com"
+      },
+      {
+        "string": "Syslog Example:"
+      },
+      {
+        "string": "<165>1 2003-10-11T22:14:15.003Z mymachine.example.com\r\nevntslog - ID47 [exampleSDID@32473 iut=\"3\" eventSource=\"Application\" eventID=\"1011\"][examplePriority@32473\"class=\"high\"]"
+      }
+    ]
+  }
